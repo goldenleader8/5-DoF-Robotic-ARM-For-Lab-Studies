@@ -24,7 +24,6 @@ Proyek ini menjembatani teori kinematika ruang tiga dimensi dengan penerapan nya
 ├── 5DofARM.py              # Skrip kendali utama (FK, IK/DLS, komunikasi serial ke Dynamixel)
 ├── Simulasi_URDF_GUI.m     # GUI simulasi lengan robot berbasis URDF di MATLAB
 ├── Test_Collision.m        # Simulasi Monte Carlo untuk deteksi area rawan tabrakan
-├── meshes/                 # File mesh (.stl) komponen fisik lengan robot
 ├── LICENSE
 └── README.md
 ```
@@ -107,7 +106,7 @@ Iterasi berlangsung hingga vektor error spasial konvergen menuju target koordina
 
 ## Publikasi Terkait
 
-Lie, J., Prasmada, D. R., Bawono, B., & Pamosoaji, A. K. (2026). *Pengembangan Robot Lengan untuk Pembelajaran Kuliah Otomasi dan Robotika di UAJY*. SENAPAS 2026.
+Naskah terkait proyek ini, *Pengembangan Robot Lengan untuk Pembelajaran Kuliah Otomasi dan Robotika di UAJY* (Lie, J., Prasmada, D. R., Bawono, B., & Pamosoaji, A. K.), telah disusun untuk SENAPAS 2026 namun belum dipublikasikan. Tautan/sitasi resmi akan ditambahkan setelah publikasi terbit.
 
 ## Kontributor
 
