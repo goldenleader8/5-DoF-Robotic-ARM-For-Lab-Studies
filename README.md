@@ -113,7 +113,7 @@ Naskah terkait proyek ini, *Pengembangan Robot Lengan untuk Pembelajaran Kuliah 
 Kelompok Studi Robotika (KSR), Fakultas Teknologi Industri, Universitas Atma Jaya Yogyakarta.
 
 - **Desain & perakitan hardware (lengan robot, 3D printing, wiring)**: [Dionisio Raditya](https://github.com/dionisioraditya) — lihat [proyek profil](https://github.com/dionisioraditya/robotic_uajy_profile/tree/master).
-- **Software (FK/IK, kontrol Python, simulasi MATLAB/URDF, uji tabrakan)**: Jonathan.
+- **Software (FK/IK, kontrol Python, simulasi MATLAB/URDF)**: Jonathan.
 
 ## Lisensi
 
