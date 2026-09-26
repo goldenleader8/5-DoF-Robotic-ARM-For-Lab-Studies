@@ -104,10 +104,6 @@ Iterasi berlangsung hingga vektor error spasial konvergen menuju target koordina
 3. Gunakan `Simulasi_URDF_GUI.m` di MATLAB untuk menjalankan simulasi virtual sebelum eksekusi ke perangkat fisik.
 4. Gunakan `Test_Collision.m` untuk menjalankan simulasi Monte Carlo dan memvalidasi batas ruang kerja aman.
 
-## Publikasi Terkait
-
-Naskah terkait proyek ini, *Pengembangan Robot Lengan untuk Pembelajaran Kuliah Otomasi dan Robotika di UAJY* (Lie, J., Prasmada, D. R., Bawono, B., & Pamosoaji, A. K.), telah disusun untuk SENAPAS 2026 namun belum dipublikasikan. Tautan/sitasi resmi akan ditambahkan setelah publikasi terbit.
-
 ## Kontributor
 
 Kelompok Studi Robotika (KSR), Fakultas Teknologi Industri, Universitas Atma Jaya Yogyakarta.
