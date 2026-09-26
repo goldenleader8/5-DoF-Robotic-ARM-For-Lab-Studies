@@ -108,7 +108,7 @@ Iterasi berlangsung hingga vektor error spasial konvergen menuju target koordina
 
 Kelompok Studi Robotika (KSR), Fakultas Teknologi Industri, Universitas Atma Jaya Yogyakarta.
 
-- **Desain & perakitan hardware (lengan robot, 3D printing, wiring)**: [Dionisio Raditya](https://github.com/dionisioraditya) — lihat [proyek profil](https://github.com/dionisioraditya/robotic_uajy_profile/tree/master).
+- **Desain & perakitan hardware (lengan robot, 3D printing, wiring)**: [Dionisio Raditya](https://github.com/dionisioraditya) 
 - **Software (FK/IK, kontrol Python, simulasi MATLAB/URDF)**: Jonathan.
 
 ## Lisensi
